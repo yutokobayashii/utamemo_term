@@ -25,7 +25,7 @@
 不具合の報告やご意見・ご要望がある場合は、以下のメールアドレス宛にご連絡ください。
 
 **メールアドレス**：  
-`utashare0316@gmail.com` ← ※実際のメールに差し替えてください
+`utashare0316@gmail.com`
 
 件名に「カラオケ日記 サポート」とご記載いただけるとスムーズです。
 
@@ -46,7 +46,5 @@
 
 - [プライバシーポリシー](https://github.com/yutokobayashii/utamemo_term/blob/main/プライバシーポリシー.md)  
 - [利用規約](https://github.com/yutokobayashii/utamemo_term/blob/main/利用規約.md)
-
-※リンクは必要に応じて実際のURLに差し替えてください。
 
 ---
